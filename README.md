@@ -10,7 +10,7 @@ The project requires the keras library which will not be available under the Ana
 # Description
 
 The project is meant to be an exploration towards how Deep Learning works. I took some inspiration from a lot of different Kaggle notebooks and Kaggle tutorial at: 
-https://www.kaggle.com/learn/intro-to-deep-learning and https://www.kaggle.com/learn/computer-vision. M
+https://www.kaggle.com/learn/intro-to-deep-learning and https://www.kaggle.com/learn/computer-vision. 
 
 # Files
 
