@@ -14,7 +14,7 @@ https://www.kaggle.com/learn/intro-to-deep-learning and https://www.kaggle.com/l
 
 # Files
 
-The main files is the ipynb notebook. The input folders contains the datasets that will be used in hte notebook. 
+The main files is the Digits Recognition.ipynb notebook. The input folders contains the datasets that will be used in the notebook. 
 
 # Acknowledgement
 
